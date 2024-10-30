@@ -4,5 +4,6 @@
 /**
  * 
  */
-module FlappyBird {
+module FlappyBird{
+	requires java.desktop;
 }
